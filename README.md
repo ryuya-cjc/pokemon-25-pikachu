@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 "# pokemon-25-pikachu" 
 "# pokemon-pikachu25" 
 "# pokemon-pikachu25" 
+"# pokemon-25-pikachu" 
